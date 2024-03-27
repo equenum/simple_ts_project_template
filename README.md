@@ -8,7 +8,7 @@ A simple TypeScript project template to use with the [`Project Templates`](https
 3. Open the folder in VS Code.
 4. Follow [the official documentation](https://github.com/cantonios/vscode-project-templates?tab=readme-ov-file#saving-a-project-as-a-template) to save the template.
 
-### Run locally ([`lite-server`](https://www.npmjs.com/package/lite-server)):
+### Run locally ([`webpack-dev-server`](https://www.npmjs.com/package/webpack-dev-server)):
 
 ```
 npm install
